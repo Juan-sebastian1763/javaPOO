@@ -56,11 +56,11 @@ public class Ejercicios {
 
    public double areaCircunferencia(double date1) {
       double date3 = Math.PI * Math.pow(date1, 2);
-      return date3; 
+      return date3;
    }
 
-   public double promedioNumeros(double date1, double date2, double date3){
-      double date5 = (date1 + date2 + date3) / 3; 
-      return date5 ;
+   public double promedioNumeros(double date1, double date2, double date3) {
+      double date5 = (date1 + date2 + date3) / 3;
+      return date5;
    }
 }
